@@ -19,7 +19,7 @@ Este projeto apresenta o processo criativo e as ferramentas utilizadas na produ�
 4. **CapCut** - Edição de áudio, mixagem e adição de trilhas sonoras e efeitos especiais.  
 
 ## 🚀 **Como Acessar o Podcast**  
-Ouça os episódios no nosso repositório:  
+Ouça o episódio no nosso repositório:  
 [**Link para o Podcast**](https://github.com/Shillue/prompts-for-creating-a-podcast/blob/main/output)  
 
 ## 📚 **Materiais incluídos**  
