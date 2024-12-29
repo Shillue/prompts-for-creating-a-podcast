@@ -7,7 +7,7 @@ height="250"
 </p>
 
 # **A Guardiã: Explorando os Segredos do Desenvolvimento de Interfaces**  
-> ℹ️ **NOTA:** Este é o repositório oficial do podcast **"A Guardiã: Explorando os Segredos do Desenvolvimento de Interfaces"**, criado para ajudar iniciantes no mundo do desenvolvimento frontend.  
+> ℹ️ **NOTA:** Este é o repositório oficial do podcast **"A Guardiã: Explorando os Segredos do Desenvolvimento de Interfaces"**,  desenvolvido durante o curso na plataforma da [DIO](https://dio.me).
 
 ## 👨‍💻 **Sobre o Projeto** 🎯   
 Este projeto apresenta o processo criativo e as ferramentas utilizadas na produção do podcast **"A Guardiã"**, destacando como as ferramentas de Inteligência Artificial podem simplificar e potencializar a criação de materiais educativos.   
