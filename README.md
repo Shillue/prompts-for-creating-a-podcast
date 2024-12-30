@@ -13,7 +13,7 @@ height="250"
 Este projeto apresenta o processo criativo e as ferramentas utilizadas na produção do podcast **"A Guardiã"**, destacando como as ferramentas de Inteligência Artificial podem simplificar e potencializar a criação de materiais educativos.   
 
 ## 🎙️ **Ferramentas e Tecnologias Utilizadas** ✨ 
-1. **ChatGPT** - Para criação do roteiro dos episódios.  
+1. **ChatGPT** - Para criação do roteiro do episódio.  
 2. **TTSMaker** - Ferramenta de conversão de texto em áudio disponível em [ttsmaker.com/br](https://ttsmaker.com/br).  
 3. **Bing Images Create** - Gerador de imagens utilizado para criar a capa e artes promocionais do podcast, acessível em [bing.com/images/create](https://www.bing.com/images/create).  
 4. **CapCut** - Edição de áudio, mixagem e adição de trilhas sonoras e efeitos especiais.  
